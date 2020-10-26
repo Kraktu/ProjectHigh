@@ -1,0 +1,88 @@
+[General]
+
+buttonReturn=Return
+
+
+[Starting Scene]
+[Main Menu]
+
+mainMenuTitle=Game Title
+mainMenuStart=Start
+mainMenuOptions=Options
+mainMenuCredits=Credits
+mainMenuQuit=Quit
+
+[Credits]
+
+creditsMenuArtists=Artists :
+creditsMenuDevelopers=Developers :
+creditsMenuGameDesigners=GameDesigners :
+
+[OptionsMenus]
+[SubMenuSwitches]
+
+graphicsOptionMenuSwitch = General Options
+audioOptionsMenuSwitch = Sounds Options
+
+[ScreenOptions]
+
+screenModeWindowed=Windowed
+screenModeFullScreen=Full Screen
+screenModeBorderless=Borderless
+
+[ResolutionOptions]
+
+screenResolutionLow=Low (720x480)
+screenResolutionHD=HD (1280x720)
+screenResolutionHDmore=HD+ (1600x900)
+screenResolutionFullHD=Full HD (1920x1080)
+screenResolutiontwoK=2K (2048x1080)
+screenResolutionfourK=4K (3840x2160)
+
+[LanguageOptions]
+
+languageEnglish=English
+languageFrench=French
+
+[AudioOptions]
+
+masterVolumeSlider = Master Volume
+musicVolumeSlider = Music Volume
+sfxVolumeSlider = Sounds Effects Volume
+testSFXButton = Test Sounds Effects
+
+[LoadingScreen]
+[LoadingDisplay]
+
+loadingScreenLoading =Loading
+dotsLoadingComplete =Complete !
+
+[LoadingSentences]
+
+loadingSentence0=Loading...
+loadingSentence1=Be Patient...
+loadingSentence2=Almost Done...
+loadingSentence3=Our best workers are on it...
+loadingSentence4=loading almost finished...
+loadingSentence5=we're working on it...
+loadingSentence6=It's coming...
+loadingSentence7=Almost ready...
+loadingSentence8=Wait a bit more...
+loadingSentence9=We're almost there...
+
+[EndLoadingSentences]
+endLoadingSentence0=Let's Go !
+endLoadingSentence1=Go !
+endLoadingSentence2=Go go go !
+endLoadingSentence3=Have fun !
+endLoadingSentence4=Release It !
+
+[GameScene]
+[PauseMenu]
+pauseButtonText = Pause
+restartButtonText = Restart
+backToMainMenuButtonText = Back to Main Menu
+backToGameButtonText = Back to Game
+
+[EndScene]
+thankYouEndingText = Thank You For Playing Our Game !

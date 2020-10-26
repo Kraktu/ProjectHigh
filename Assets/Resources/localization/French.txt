@@ -1,0 +1,88 @@
+[General]
+
+buttonReturn=Retour
+
+
+[Starting Scene]
+[Main Menu]
+
+mainMenuTitle=Titre Du Jeu
+mainMenuStart=Démarrer
+mainMenuOptions=Options
+mainMenuCredits=Crédits
+mainMenuQuit=Quitter
+
+[Credits]
+
+creditsMenuArtists=Artistes :
+creditsMenuDevelopers=Développeurs :
+creditsMenuGameDesigners=GameDesigners :
+
+[OptionsMenus]
+[SubMenuSwitches]
+
+graphicsOptionMenuSwitch = Options Générales
+audioOptionsMenuSwitch = Options de Sons
+
+[ScreenOptions]
+
+screenModeWindowed=Fenêtré
+screenModeFullScreen=Plein Ecran
+screenModeBorderless=Sans Bord
+
+[ResolutionOptions]
+
+screenResolutionLow=Basse (720x480)
+screenResolutionHD=HD (1280x720)
+screenResolutionHDmore=HD+ (1600x900)
+screenResolutionFullHD=Full HD (1920x1080)
+screenResolutiontwoK=2K (2048x1080)
+screenResolutionfourK=4K (3840x2160)
+
+[LanguageOptions]
+
+languageEnglish=Anglais
+languageFrench=Français
+
+[AudioOptions]
+
+masterVolumeSlider = Volume Global
+musicVolumeSlider = Volume de la Musique
+sfxVolumeSlider = Volume des Effets Sonores
+testSFXButton = Tester les Effets Sonores
+
+[LoadingScreen]
+[LoadingDisplay]
+
+loadingScreenLoading =Chargement
+dotsLoadingComplete =Fini !
+
+[LoadingSentences]
+
+loadingSentence0=Chargement en cours...
+loadingSentence1=Veuillez Patienter...
+loadingSentence2=C'est presque terminé...
+loadingSentence3=Nos Meilleurs Travailleurs sont sur le coup...
+loadingSentence4=Le Chargement arrive à sa fin...
+loadingSentence5=On y travaille...
+loadingSentence6=Ca Arrive...
+loadingSentence7=Bientôt prêt...
+loadingSentence8=Patientez encore un peu...
+loadingSentence9=Nous y sommes presque...
+
+[EndLoadingSentences]
+endLoadingSentence0=C'est parti !
+endLoadingSentence1=On y va !
+endLoadingSentence2=Go go go !
+endLoadingSentence3=Amusez vous bien !
+endLoadingSentence4=Lâchez la bête !
+
+[GameScene]
+[PauseMenu]
+pauseButtonText = Pause
+restartButtonText = Recommencer
+backToMainMenuButtonText = Retour au Menu
+backToGameButtonText = Reprendre
+
+[EndScene]
+thankYouEndingText = Merci d'avoir joué à notre jeu !
